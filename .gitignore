@@ -1,0 +1,20 @@
+# CubeMX
+*.ioc.bak
+.cubemx/
+
+# Keil MDK
+MDK-ARM/*.uvgui*
+MDK-ARM/*.axf
+MDK-ARM/*.hex
+MDK-ARM/*.bin
+MDK-ARM/*.o
+MDK-ARM/*.d
+MDK-ARM/*.crf
+MDK-ARM/*.map
+MDK-ARM/*.lnp
+MDK-ARM/Build/
+MDK-ARM/Debug/
+
+# 临时文件
+*.bak
+*.log
