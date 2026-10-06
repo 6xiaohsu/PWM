@@ -3,3 +3,4 @@ v3: main.c 添加预分频配置注释
 modify content for revert conflict
 v1: PWM基础配置
 v3: 增加过流保护
+v3: 增加过流保护
