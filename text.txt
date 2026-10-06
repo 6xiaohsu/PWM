@@ -1,3 +1,4 @@
 V2:增加死区设置
 V1:PWM基础设置
 PWM
+feature:PWM1 MODE
